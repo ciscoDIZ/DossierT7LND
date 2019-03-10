@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<persona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://www.misitio.com"
+         xsi:schemaLocation="http://www.misitio.com mensaje.xsd">
+    <nombre>Francisco de Asís</nombre>
+    <apellidos>Dominguez Iceta</apellidos>
+    <edad>63</edad>
+    <fechaNacimiento>1984-07-23</fechaNacimiento>
+</persona>

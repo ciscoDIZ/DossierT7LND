@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<parrafo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.misitio.com"
+        xsi:schemaLocation="http://www.misitio.com  parrafo.xsd"
+        idioma="Español"
+        codificacion="UTF-8">
+        Hola mundo!!
+        </parrafo>

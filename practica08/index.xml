@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<coche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.misitio.com"
+        xsi:schemaLocation="http://www.misitio.com coche.xsd">
+        <marca>Nisan</marca>
+        <modelo>Skyline</modelo>
+        <puertas>4</puertas>
+        <color>blanco</color>
+</coche>

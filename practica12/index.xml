@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<boletin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.misitio.com"
+        xsi:schemaLocation="http://www.misitio.com boletin.xsd"
+        evaluacion="1">
+        El alumno <nombre>Francisco de Asís</nombre><apellidos> Domínguez Iceta </apellidos>
+        . Ha obtenido una calidicacion de <nota>5</nota> en <materia>Lenguaje de Marcas</materia>
+        </boletin>
