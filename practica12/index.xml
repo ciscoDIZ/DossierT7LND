@@ -5,4 +5,4 @@
         evaluacion="1">
         El alumno <nombre>Francisco de Asís</nombre><apellidos> Domínguez Iceta </apellidos>
         . Ha obtenido una calidicacion de <nota>5</nota> en <materia>Lenguaje de Marcas</materia>
-        </boletin>
+</boletin>

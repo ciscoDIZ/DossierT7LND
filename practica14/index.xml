@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<clinica xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.misitio.com"
+        xsi:schemaLocation="http://www.misitio.com clinica.xsd">
+        <paciente>
+                <nombre>Juanito</nombre>
+                <apellidos>de los Palotes</apellidos>
+                <visitatnte>Pepita Juanez</visitatnte>
+                <visitatnte>Pepito Juanez</visitatnte>
+        </paciente>
+        <paciente>
+                <nombre>Juanito</nombre>
+                <apellidos>de los Palotes</apellidos>
+                <visitatnte>Pepita Juanez</visitatnte>
+                <visitatnte>Pepito Juanez</visitatnte>
+        </paciente>
+        <paciente>
+                <nombre>Juanito</nombre>
+                <apellidos>de los Palotes</apellidos>
+                <visitatnte>Pepita Juanez</visitatnte>
+                <visitatnte>Pepito Juanez</visitatnte>
+        </paciente>
+        <paciente>
+                <nombre>Juanito</nombre>
+                <apellidos>de los Palotes</apellidos>
+                <visitatnte>Pepita Juanez</visitatnte>
+                <visitatnte>Pepito Juanez</visitatnte>
+        </paciente>
+        <paciente>
+                <nombre>Juanito</nombre>
+                <apellidos>de los Palotes</apellidos>
+                <visitatnte>Pepita Juanez</visitatnte>
+                <visitatnte>Pepito Juanez</visitatnte>
+        </paciente>
+</clinica>

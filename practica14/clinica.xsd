@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.misitio.com" xmlns="http://www.misitio.com"
+           elementFormDefault="qualified">
+    <xs:element name="clinica" type="tipoClinica"/>
+    <xs:complexType name="tipoPersona">
+        <xs:sequence>
+            <xs:element name="nombre" type="xs:string"/>
+            <xs:element name="apellidos" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="tipoVisitante">
+        <xs:complexContent>
+            <xs:extension base="tipoPersona"/>
+        </xs:complexContent>
+    </xs:complexType>
+    <xs:complexType name="tipoPaciente">
+        <xs:complexContent>
+            <xs:extension base="tipoVisitante">
+                <xs:sequence>
+                    <xs:element name="visitatnte" maxOccurs="2"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+    <xs:complexType name="tipoClinica">
+        <xs:complexContent>
+            <xs:restriction base="tipoPaciente">
+                <xs:sequence>
+                    <xs:element name="paciente" type="tipoPaciente"
+                                maxOccurs="500"/>
+                </xs:sequence>
+            </xs:restriction>
+        </xs:complexContent>
+    </xs:complexType>
+</xs:schema>

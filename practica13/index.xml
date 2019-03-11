@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<persona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.misitio.com"
+        xsi:schemaLocation="http://www.misitio.com persona.xsd">
+        <apellidos>Dominguez Iceta</apellidos>
+        <nombre>Francisco de Asís</nombre>
+</persona>
